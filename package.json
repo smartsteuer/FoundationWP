@@ -1,0 +1,26 @@
+{
+  "name": "crunchy",
+  "description": "juhu",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0",
+    "gulp-sass-lint": "^1.1.1"
+  },
+  "keywords": [
+    "Pattern Lab",
+    "Atomic Web Design",
+    "Node",
+    "Grunt",
+    "Gulp",
+    "Javascript"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "gulp travis --verbose",
+    "install": "bower install"
+  },
+  "engines": {
+    "node": ">=0.1"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "crunchy",
+  "version": "0.0.1",
+  "ignore": [],
+  "dependencies": {
+    "foundation-sites": "~6.1.1"
+  }
+}
