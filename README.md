@@ -18,7 +18,7 @@ Basic port from Foundation 6 markup into a clean WordPress boilerplate based on 
 ### Credits & used assets
 - Foundation (6.2) by ZURB - http://foundation.zurb.com/
 
-- Node
+- Node Package Manager
 - Bower
 - Gulp
 - Sass
