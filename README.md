@@ -16,4 +16,4 @@ Basic port from Foundation 6 markup into a clean WordPress boilerplate based on 
 
 
 ### Credits & used assets
-Foundation (6.1.1) by ZURB - http://foundation.zurb.com/
+Foundation (6.2) by ZURB - http://foundation.zurb.com/
